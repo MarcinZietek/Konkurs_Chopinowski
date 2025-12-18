@@ -57,4 +57,9 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Osoba.sql" />
+    <Build Include="OsobaSzczegoly.sql" />
+    <Build Include="OsobaRole.sql" />
+  </ItemGroup>
 </Project>

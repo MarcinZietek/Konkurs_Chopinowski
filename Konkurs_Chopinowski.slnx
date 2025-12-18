@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Konkurs_Chopinowski.sqlproj">
+  <Project Path="Konkurs_Chopinowski.sqlproj" Id="d5b17e72-d08b-47fe-9c7b-7e7f81c8aaf6">
     <Build />
     <Deploy />
   </Project>
