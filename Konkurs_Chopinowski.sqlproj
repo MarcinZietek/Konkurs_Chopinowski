@@ -61,5 +61,6 @@
     <Build Include="Osoba.sql" />
     <Build Include="OsobaSzczegoly.sql" />
     <Build Include="OsobaRole.sql" />
+    <Build Include="Konkurs.sql" />
   </ItemGroup>
 </Project>
