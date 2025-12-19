@@ -67,5 +67,6 @@
     <Build Include="Repertuar.sql" />
     <Build Include="Wystep.sql" />
     <Build Include="Punkty.sql" />
+    <Build Include="Nagrody.sql" />
   </ItemGroup>
 </Project>
