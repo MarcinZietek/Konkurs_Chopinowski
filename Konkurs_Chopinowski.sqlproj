@@ -66,5 +66,6 @@
     <Build Include="Utwory.sql" />
     <Build Include="Repertuar.sql" />
     <Build Include="Wystep.sql" />
+    <Build Include="Punkty.sql" />
   </ItemGroup>
 </Project>
